@@ -11,4 +11,8 @@
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
 <br>
 
+:rocket: **Software Quality Assurance Engineer at JoulesLabs: February 2022 – Ongoing**
+
+:rocket: **Former Data Analyst at Taskeater: January 2021 - December 2021**
+
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
