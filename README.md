@@ -9,9 +9,11 @@
 
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/Facebook-Ahoteshanul%20Haque%20Shah-informational)](https://www.facebook.com/ahoteshanul.haque.shah/)
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
-<br>
+<be>
 
-:rocket: **Software Quality Assurance Engineer at JoulesLabs: February 2022 – Ongoing**
+:rocket: **Project Manager at JoulesLabs: August 2024 – Ongoing**
+
+:rocket: **Former Software Quality Assurance Engineer at JoulesLabs: February 2022 – July 2024**
 
 :rocket: **Former Data Analyst at Taskeater: January 2021 - December 2021**
 
