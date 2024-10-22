@@ -11,10 +11,19 @@
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
 <be>
 
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+
+
+
+</td></tr></table>  
+
 :rocket: **Project Manager at JoulesLabs: August 2024 – Ongoing**
 
 :rocket: **Former Software Quality Assurance Engineer at JoulesLabs: February 2022 – July 2024**
 
-:rocket: **Former Data Analyst at Taskeater: January 2021 - December 2021**
+:rocket: **Former Data Analyst at Taskeater (Quantanite): January 2021 - December 2021**
 
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
