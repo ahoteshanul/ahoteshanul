@@ -20,7 +20,7 @@
 
 </td></tr></table>  
 
-:rocket: **Project Manager at JoulesLabs: August 2024 – Ongoing**
+:rocket: **Project Manager at JoulesLabs: August 2024 – April 2025**
 
 :rocket: **Former Software Quality Assurance Engineer at JoulesLabs: February 2022 – July 2024**
 
