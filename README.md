@@ -12,8 +12,6 @@
 <be>
 
 
-</td></tr></table>  
-
 :briefcase: **Former Project Manager at JoulesLabs: August 2024 – April 2025**
 
 :briefcase: **Former Software Quality Assurance Engineer at JoulesLabs: February 2022 – July 2024**
