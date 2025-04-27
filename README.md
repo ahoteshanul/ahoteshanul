@@ -11,12 +11,6 @@
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
 <be>
 
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-
-
 
 </td></tr></table>  
 
