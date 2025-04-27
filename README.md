@@ -14,10 +14,10 @@
 
 </td></tr></table>  
 
-:rocket: **Project Manager at JoulesLabs: August 2024 – April 2025**
+:briefcase: **Former Project Manager at JoulesLabs: August 2024 – April 2025**
 
-:rocket: **Former Software Quality Assurance Engineer at JoulesLabs: February 2022 – July 2024**
+:briefcase: **Former Software Quality Assurance Engineer at JoulesLabs: February 2022 – July 2024**
 
-:rocket: **Former Data Analyst at Taskeater (Quantanite): January 2021 - December 2021**
+:briefcase: **Former Data Analyst at Taskeater (Quantanite): January 2021 - December 2021**
 
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
