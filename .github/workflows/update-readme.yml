@@ -1,21 +1,50 @@
-name: Daily Empty Commit
+name: Fun Daily Commit
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Every day at 00:00 UTC
-  workflow_dispatch:     # Manual trigger
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering
 
 jobs:
-  fake-commit:
+  fun-commit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create an empty commit
+      - name: Create random commit message and commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit --allow-empty -m "Turning chaos into clarity."
+
+          # Array of fun commit messages
+          messages=(
+            "🚀 Just keeping the lights on."
+            "📚 A commit a day keeps the bugs away."
+            "🌟 Progress through persistence."
+            "🔁 The grind never stops."
+            "🧘‍♂️ Calm before the code storm."
+            "🤖 This is totally not a bot."
+            "🪄 Auto-magic commit done!"
+            "🕵️‍♂️ Nothing to see here."
+            "🙃 Updated by a ghost in the machine."
+            "💤 Silent update... move along."
+            "💾 Saved the universe again."
+            "📈 Keeping the graph alive."
+            "⌛ Time is an illusion, commits doubly so."
+            "🧪 Experimental nothingness."
+            "🐢 Slow and steady commits win the race."
+            "✅ Cron job completed successfully."
+            "📆 Another day, another commit."
+            "⚙️ System heartbeat check."
+            "📤 Scheduled push to please the algorithm gods."
+            "Turning chaos into clarity."
+          )
+
+          # Pick a random message
+          message=${messages[$RANDOM % ${#messages[@]}]}
+
+          # Make empty commit with random message
+          git commit --allow-empty -m "$message"
           git push
