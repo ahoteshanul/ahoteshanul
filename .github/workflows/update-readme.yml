@@ -1,4 +1,4 @@
-name: Fun Daily Commit
+name: 📚 Turning chaos into clarity.
 
 on:
   schedule:
@@ -13,21 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create random commit message and commit
+      - name: Make empty commit with fixed message
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
-          # Array of fun commit messages
-          messages=(
-            "📚 La ilaha illallah muhammadur rasulullah"
-            "📚 রব্বির হামহুমা কামা রাব্বাইয়ানি সাগিরা"
-            "📚 رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا"
-          )
-
-          # Pick a random message
-          message=${messages[$RANDOM % ${#messages[@]}]}
-
-          # Make empty commit with random message
-          git commit --allow-empty -m "$message"
+          git commit --allow-empty -m "📚 LA ILAHA ILLALLAH MUHAMMADUR RASULULLAH"
           git push
