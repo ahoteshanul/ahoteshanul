@@ -17,5 +17,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit --allow-empty -m "📚 LA ILAHA ILLALLAH MUHAMMADUR RASULULLAH  لَا إِلٰهَ إِلَّا ٱللّٰهُ مُحَمَّدٌ رَسُولُ ٱللّٰهِ"
+          git commit --allow-empty -m "📚 Turning Chaos Into Clarity"
           git push
