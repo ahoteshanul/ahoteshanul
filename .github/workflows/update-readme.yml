@@ -1,28 +1,21 @@
-name: Daily README Update
+name: Daily Empty Commit
 
 on:
   schedule:
     - cron: '0 0 * * *'  # Every day at 00:00 UTC
-  workflow_dispatch:     # Optional manual trigger
+  workflow_dispatch:     # Manual trigger
 
 jobs:
-  update-readme:
+  fake-commit:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update README timestamp
-        run: |
-          DATE=$(date)
-          echo "Last update: $DATE" > last-updated.txt
-          cat last-updated.txt >> README.md
-
-      - name: Commit changes
+      - name: Create an empty commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md last-updated.txt
-          git commit -m "Turning chaos into clarity." || echo "No changes to commit"
+          git commit --allow-empty -m "Turning chaos into clarity."
           git push
