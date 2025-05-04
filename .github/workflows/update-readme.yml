@@ -20,26 +20,9 @@ jobs:
 
           # Array of fun commit messages
           messages=(
-            "🚀 Just keeping the lights on."
-            "📚 A commit a day keeps the bugs away."
-            "🌟 Progress through persistence."
-            "🔁 The grind never stops."
-            "🧘‍♂️ Calm before the code storm."
-            "🤖 This is totally not a bot."
-            "🪄 Auto-magic commit done!"
-            "🕵️‍♂️ Nothing to see here."
-            "🙃 Updated by a ghost in the machine."
-            "💤 Silent update... move along."
-            "💾 Saved the universe again."
-            "📈 Keeping the graph alive."
-            "⌛ Time is an illusion, commits doubly so."
-            "🧪 Experimental nothingness."
-            "🐢 Slow and steady commits win the race."
-            "✅ Cron job completed successfully."
-            "📆 Another day, another commit."
-            "⚙️ System heartbeat check."
-            "📤 Scheduled push to please the algorithm gods."
-            "Turning chaos into clarity."
+            "📚 La ilaha illallah muhammadur rasulullah"
+            "📚 রব্বির হামহুমা কামা রাব্বাইয়ানি সাগিরা"
+            "📚 رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا"
           )
 
           # Pick a random message
