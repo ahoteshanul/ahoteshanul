@@ -1,8 +1,8 @@
-name: 📚 Turning chaos into clarity.
+name: 📚 Turning Chaos Into Clarity.
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '5 18 * * *'  # Every day at 12:05 AM BDT (which is 18:05 UTC)
   workflow_dispatch:      # Allows manual triggering
 
 jobs:
@@ -17,5 +17,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit --allow-empty -m "📚 LA ILAHA ILLALLAH MUHAMMADUR RASULULLAH"
+          git commit --allow-empty -m "📚 LA ILAHA ILLALLAH MUHAMMADUR RASULULLAH  لَا إِلٰهَ إِلَّا ٱللّٰهُ مُحَمَّدٌ رَسُولُ ٱللّٰهِ"
           git push
