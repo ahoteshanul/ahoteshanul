@@ -16,6 +16,4 @@
 
 :briefcase: **Former Software Quality Assurance Engineer (Intern) at JoulesLabs: February 2022 – June 2022**
 
-:briefcase: **Former Data Analyst at Taskeater (Quantanite): January 2021 - December 2021**
-
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
