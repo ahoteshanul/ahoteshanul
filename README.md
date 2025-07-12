@@ -14,6 +14,6 @@
 
 :briefcase: **Former Project Manager at JoulesLabs: July 2022 – April 2025**
 
-:briefcase: **Former Software Quality Assurance Engineer (Intern) at JoulesLabs: February 2022 – June 2022**
+:briefcase: **Former Project Manager (Intern) at JoulesLabs: February 2022 – June 2022**
 
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
