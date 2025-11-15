@@ -11,7 +11,7 @@
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
 <be>
 
-:briefcase: **Product Manager at Riseup Labs: July 2025 – Continue...**
+:briefcase: **Product Manager at Riseup Labs: July 2025 – December 2025**
 
 :briefcase: **Former Project Manager at JoulesLabs: July 2022 – April 2025**
 
