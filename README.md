@@ -1,7 +1,7 @@
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/-As--Salaam--Alaikum-informational)]()
 
 
-[![Ahoteshanul Haque Shah](https://img.shields.io/badge/Facebook-Ahoteshanul%20Haque%20Shah-informational)](https://www.facebook.com/ahoteshanul.haque.shah/)
+[![Ahoteshanul Haque Shah](https://img.shields.io/badge/Facebook-Ahoteshanul%20Haque%20Shah-informational)](https://www.facebook.com/ahoteshanul/)
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
 <be>
 
