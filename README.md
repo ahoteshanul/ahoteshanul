@@ -9,6 +9,6 @@
 
 :briefcase: **Former Product Manager at Riseup Labs: July 2025 – December 2025**
 
-:briefcase: **Former Project Manager at JoulesLabs: February 2022 – April 2025**
+:briefcase: **Former Technical Project Manager at JoulesLabs: February 2022 – April 2025**
 
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
