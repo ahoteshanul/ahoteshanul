@@ -1,4 +1,4 @@
-name: 📚 Turning Chaos Into Clarity.
+name: 🔥 Turning Chaos Into Clarity.
 
 on:
   schedule:
@@ -17,5 +17,5 @@ jobs:
         run: |
           git config --local user.email "ahoteshanul@gmail.com"
           git config --local user.name "ahoteshanul"
-          git commit --allow-empty -m "📚 Turning Chaos Into Clarity"
+          git commit --allow-empty -m "🔥 Turning Chaos Into Clarity."
           git push
