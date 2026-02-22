@@ -15,4 +15,6 @@
 
 🖊️ **Master of Science, Computer Science and Engineering - Uttara University**
 
+🔖 **Advanced Certificate for Management Professionals (ACMP 4.0) - Institute of Business Administration, University of Dhaka**
+
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
