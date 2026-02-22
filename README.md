@@ -11,4 +11,8 @@
 
 :briefcase: **Former Technical Project Manager at JoulesLabs: February 2022 – April 2025**
 
+🖊️ **Bachelor of Science, Computer Science and Engineering - Bangladesh University of Business & Technology - BUBT**
+
+🖊️ **Master of Science, Computer Science and Engineering - Uttara University**
+
 ![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
