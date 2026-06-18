@@ -1,12 +1,6 @@
-[![Ahoteshanul Haque Shah](https://img.shields.io/badge/Facebook-Ahoteshanul%20Haque%20Shah-informational)](https://www.facebook.com/ahoteshanul/)
-[![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
-<be>
-
 ## As-Salaam-Alaikum, I'm Ahoteshanul Haque Shah 👋
 
-**Product Manager · SaaS Builder · Tech Enthusiast**
-
-Dhaka, Bangladesh · 5+ years in the software industry
+### Product Manager · 5+ years in the software industry
 
 
 ### 💼 Experience
