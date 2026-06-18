@@ -1,23 +1,32 @@
-[![Ahoteshanul Haque Shah](https://img.shields.io/badge/-As--Salaam--Alaikum-informational)]()
-
-
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/Facebook-Ahoteshanul%20Haque%20Shah-informational)](https://www.facebook.com/ahoteshanul/)
 [![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
 <be>
 
-- Over 5 years in the software industry. 
-- Government & Global Projects.
-- UN Projects.
-- Shopify Ecosystem.
-- SAAS.
+## As-Salaam-Alaikum, I'm Ahoteshanul Haque Shah 👋
 
-- Product Manager at Zepto Apps: January 2026 – Continue...
-- Former Product Manager at Riseup Labs: July 2025 – December 2025.
-- Former Technical Project Manager at JoulesLabs: February 2022 – April 2025.
-- Former Data Analyst at Quantanite: January 2021 – December 2021.
+**Product Manager · SaaS Builder · Tech Enthusiast**
 
-- Bachelor of Science, Computer Science and Engineering - Bangladesh University of Business & Technology - BUBT.
-- Master of Science, Computer Science and Engineering - Uttara University.
-- Advanced Certificate for Management Professionals (ACMP 4.0) - Institute of Business Administration, University of Dhaka.
+Dhaka, Bangladesh · 5+ years in the software industry
 
-![Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)
+
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Product Manager | **Zepto Apps** | Jan 2026 – Present |
+| Product Manager | Riseup Labs | Jul 2025 – Dec 2025 |
+| Technical Project Manager | JoulesLabs | Feb 2022 – Apr 2025 |
+| Data Analyst | Quantanite | Jan 2021 – Dec 2021 |
+
+
+### 🎓 Education
+
+- 🎓 **MSc**, Computer Science & Engineering — Uttara University
+- 🎓 **BSc**, Computer Science & Engineering — Bangladesh University of Business & Technology (BUBT)
+- 📜 **ACMP 4.0** (Advanced Certificate for Management Professionals) — IBA, University of Dhaka
+
+
+### 🔗 Connect
+[![Ahoteshanul Haque Shah](https://img.shields.io/badge/Facebook-Ahoteshanul%20Haque%20Shah-informational)](https://www.facebook.com/ahoteshanul/)
+[![Ahoteshanul Haque Shah](https://img.shields.io/badge/LinkedIn-Ahoteshanul%20Haque%20Shah-informational)](https://www.linkedin.com/in/ahoteshanul/)
+[![GitHub Followers](https://img.shields.io/github/followers/ahoteshanul?style=social)](https://github.com/ahoteshanul)
