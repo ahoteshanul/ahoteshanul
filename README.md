@@ -1,9 +1,6 @@
-## As-Salaam-Alaikum, I'm Ahoteshanul Haque Shah 👋
-
 ### Product Manager · 5+ years in the software industry
 
-
-### 💼 Experience
+### 💼 Experience:
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -13,7 +10,7 @@
 | Data Analyst | Quantanite | Jan 2021 – Dec 2021 |
 
 
-### 🎓 Education
+### 🎓 Education:
 
 - 🎓 **MSc**, Computer Science & Engineering — Uttara University
 - 🎓 **BSc**, Computer Science & Engineering — Bangladesh University of Business & Technology (BUBT)
