@@ -7,7 +7,6 @@
 | Product Manager | Zepto Apps | Jan 2026 – Present |
 | Product Manager | Riseup Labs | Jul 2025 – Dec 2025 |
 | Technical Project Manager | JoulesLabs | Feb 2022 – Apr 2025 |
-| Data Analyst | Quantanite | Jan 2021 – Dec 2021 |
 
 
 ### 🎓 Education:
