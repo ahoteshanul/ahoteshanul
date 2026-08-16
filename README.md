@@ -1,4 +1,4 @@
-### Product Manager · 5+ years in the software industry
+### Product Manager · 4+ years in the software industry
 
 ### 💼 Experience:
 
